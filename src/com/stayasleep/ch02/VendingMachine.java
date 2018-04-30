@@ -34,7 +34,5 @@ public class VendingMachine {
         System.out.println("You can make a combination of ...");
         System.out.println(quarters+" Quarters, "+ dimes+ " Dimes, "+nickels+" Nickels, "+pennies+" Pennies.");
 
-
-
     }
 }
